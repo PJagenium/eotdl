@@ -6,22 +6,17 @@
   "links": [
     {
       "rel": "root",
-      "href": "/home/pcoquard/git/eotdl/tutorials/usecases/useCaseD/data/sentinel_2_q2/catalog.json",
+      "href": "./catalog.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "/home/pcoquard/git/eotdl/tutorials/usecases/useCaseD/data/sentinel_2_q2/sentinel-2-ships/collection.json",
+      "href": "./sentinel-2-ships/collection.json",
       "type": "application/json"
     },
     {
       "rel": "child",
-      "href": "/home/pcoquard/git/eotdl/tutorials/usecases/useCaseD/data/sentinel_2_q2/labels/collection.json",
-      "type": "application/json"
-    },
-    {
-      "rel": "self",
-      "href": "/home/pcoquard/git/eotdl/tutorials/usecases/useCaseD/data/sentinel_2_q2/catalog.json",
+      "href": "./labels/collection.json",
       "type": "application/json"
     }
   ],
